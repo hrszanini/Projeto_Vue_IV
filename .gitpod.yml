@@ -1,2 +1,2 @@
-task:
-  install: npm install
+tasks:
+  - init: npm install
